@@ -10,3 +10,5 @@ Demo project with tutorial how to customize  segmented picker in SwiftUI.
 <p align="center">
 <img src="segmentedpicker_demo.gif" alt="demo">
 </p>
+
+👨🏻‍💻 Subscribe to my channel **[SwiftUI dev](https://t.me/swiftui_dev)** in telegram.
